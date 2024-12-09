@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "welcome to Accounts prod Microservice"
+  message: "welcome to Accounts production Microservice"
   contactDetails:
     name: "Deepanshu"
     email: "deepanshu123@gmail.com"
